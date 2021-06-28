@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+## Deployed at
+https://tesla-clone-40ad1.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -28,9 +31,6 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
-
-## Deployed at
-https://tesla-clone-40ad1.web.app/
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
